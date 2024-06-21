@@ -1,0 +1,2 @@
+# PAM
+Power Assignation Metric
