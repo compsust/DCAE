@@ -6,4 +6,6 @@ All DCAE-implementation scripts (originally known as PAM in Rodriguez-Silva's th
 
 Please cite our IEEE Data Descriptions meta paper when using the metric in your published works:
 
+_S. Makonin and A. Rodriguez-Silva, "Meta: Defining the Disaggregated Component Assignation Error Metric for Complex Time-Series Signal Data," in IEEE Data Descriptions. [in submission]_
+
 
